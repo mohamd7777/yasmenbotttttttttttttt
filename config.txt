@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
+owner=563677033817964545
+prefix=ي
+game=yasmin bot by mohamd
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTYzNjgzMzgwMjc3OTM2MTM4.XKc5VQ.fvp7wi-JG8QLj2PZE2hvj3Wom1w
